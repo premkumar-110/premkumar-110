@@ -1,5 +1,5 @@
 ## 🌐 Portfolio:
-[![PORTFOLIO]](https://premkumarp.vercel.app/)
+[PORTFOLIO](https://premkumarp.vercel.app/)
 
 # 💫 About Me:
 🔭 I’m currently studying B. Tech Information Technology<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning designing<br>💬 Ask me if you have any queries<br>⚡ I like to learn new technologies
