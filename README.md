@@ -1,4 +1,6 @@
-[![PORTFOLIO](https://github.com/premkumar-110/imago/assets/122764871/799440c9-eaa6-4a80-b87c-9c1206101b5f)](https://premkumarp.vercel.app/)
+## 🌐 Portfolio:
+[![PORTFOLIO]](https://premkumarp.vercel.app/)
+
 # 💫 About Me:
 🔭 I’m currently studying B. Tech Information Technology<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning designing<br>💬 Ask me if you have any queries<br>⚡ I like to learn new technologies
 
